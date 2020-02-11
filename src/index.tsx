@@ -9,6 +9,8 @@ import axios from "axios";
 
 /*
  * TODO switch to AXIOS
+ * TODO determine Manifest?
+ * TODO check npm script "build" command?
  *
  * Konfigurationen und sowas wie eine Axios-instanz
  * werden über Kontext reingereicht
