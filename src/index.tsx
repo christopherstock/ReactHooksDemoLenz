@@ -3,7 +3,8 @@ import { render } from "react-dom";
 
 import "antd/dist/antd.css";
 import { Website } from "./components";
-import { Settings, SettingsContext, AxiosContext } from "./context";
+import { SettingsContext, AxiosContext } from "./context";
+import { Settings } from "./context/Settings";
 import axios from "axios";
 
 /*

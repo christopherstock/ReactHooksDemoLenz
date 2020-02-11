@@ -1,7 +1,7 @@
 import React from "react";
 import { Menu as AntMenu, Icon, Layout } from "antd";
 
-import logo from "/assets/logo.png";
+import logo from "../assets/logo.png";
 import { css } from "@emotion/core";
 import { useSettings } from "../context";
 
