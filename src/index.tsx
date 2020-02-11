@@ -8,6 +8,8 @@ import { Settings } from "./context/Settings";
 import axios from "axios";
 
 /*
+ * TODO switch to AXIOS
+ *
  * Konfigurationen und sowas wie eine Axios-instanz
  * werden über Kontext reingereicht
  * Das ist im Endeffekt die Dependency Injection von React
@@ -21,6 +23,8 @@ const axiosInstance = axios.create({
 });
 
 /**
+*  TODO check
+*
  * window.onload ist für sowas wirklich nicht nötig.
  * wenn das hier geladen ist ist alles was wir brauchen schon
  * geladen - läuft ja durch einen Bundler.
