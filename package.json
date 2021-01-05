@@ -16,7 +16,7 @@
     "@types/moxios": "^0.4.9",
     "@types/react-helmet": "^5.0.15",
     "antd": "3.26.8",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "moxios": "0.4.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
